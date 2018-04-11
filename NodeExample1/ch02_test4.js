@@ -1,5 +1,6 @@
-var calc = {};
-calc.add = function(a, b) {
+var calc = {}; //calc라는 객체 생성
+
+calc.add = function(a, b) { //calc라는 객체에 add 속성을 추가하고 더하기 함수를 할당함
     return a + b;
 }
 
