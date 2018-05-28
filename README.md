@@ -1,4 +1,4 @@
-# nodejs-server-study
+# nodejs-study-example
 노드를 공부하면서 실습한 소스 코드를 Commit 합니다.
 
 - [NodeStudy](https://github.com/JESS2/nodejs-server-study/tree/master/NodeStudy) : 기본 모듈 사용해보기
